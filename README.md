@@ -1,7 +1,7 @@
 Hey there! 👋 I'm Riya Tanwar
 Salesforce Developer | 4+ Years Experience
 
--> I enjoy building solutions on Salesforce that make work easier for users and businesses. From writing Apex code to creating Lightning Web Components, I focus on solving real-world problems and automating processes to save time and effort.
+👩‍💻 I enjoy building solutions on Salesforce that make work easier for users and businesses. From writing Apex code to creating Lightning Web Components, I focus on solving real-world problems and automating processes to save time and effort.
 
 🔭 What I Do
 
@@ -13,7 +13,7 @@ Salesforce Developer | 4+ Years Experience
 • Integrate Salesforce with other systems using REST APIs
 • Work with Flosum for DevOps and follow Agile methodology
 
-🌱 Skills
+🛠 Skills
 
 • Development: Apex, Triggers, Visualforce, LWC
 • Automation: Flows, Process Builder, Approval Processes
@@ -23,11 +23,17 @@ Salesforce Developer | 4+ Years Experience
 • Methodologies: Agile
 • Administration: User Management, Security, Object and Field Setup
 
+⚡ Certificates
+
+Salesforce Certified Admin
+Salesforce Certified Platform Developer I
+Flosum Certified Professional
+
 💬 Connect With Me
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/riya-tanwar-79584a1a0/
 Trailblazer Community: https://trailblazer.me/
-Email: your.email@example.com
+Email: riyatawar8@gmail.com 
 
 
 <!--
