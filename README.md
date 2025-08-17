@@ -25,8 +25,8 @@ An Salesforce Developer | 4+ Years Experience
 
 ⚡ Certificates
 
-Salesforce Certified Admin
-Salesforce Certified Platform Developer I
+Salesforce Certified Admin |
+Salesforce Certified Platform Developer I |
 Flosum Certified Professional
 
 💬 Connect With Me
