@@ -31,8 +31,8 @@ Flosum Certified Professional
 
 💬 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/riya-tanwar-79584a1a0/
-Trailblazer Community: https://trailblazer.me/
+LinkedIn: https://www.linkedin.com/in/riya-tanwar-79584a1a0/                                                                                                                                  
+Trailblazer Community: https://trailblazer.me/                                                                                                                                          
 Email: riyatawar8@gmail.com 
 
 
